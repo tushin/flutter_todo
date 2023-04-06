@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "270809684516-fsj5u17lk78r9dotk137skj9drt0lffo.apps.googleusercontent.com",
+          "client_id": "270809684516-3j67831vjtuf8a7o5f8t37afbcq6t81i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ditto.todo.flutter_todo",
+            "certificate_hash": "9bd23eee5e5d4d8751527c0cf8f0356de9d3e033"
+          }
+        },
+        {
+          "client_id": "270809684516-6s2ieacl1dnen9l192v95js5lqi7fjq4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -27,7 +35,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "270809684516-fsj5u17lk78r9dotk137skj9drt0lffo.apps.googleusercontent.com",
+              "client_id": "270809684516-6s2ieacl1dnen9l192v95js5lqi7fjq4.apps.googleusercontent.com",
               "client_type": 3
             },
             {
